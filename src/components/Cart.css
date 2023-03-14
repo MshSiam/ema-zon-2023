@@ -1,0 +1,28 @@
+.cart-container {
+  padding-top: 20px;
+}
+
+.cart {
+  background-color: rgb(138, 36, 18);
+  border: none;
+  color: aliceblue;
+  padding: 4px 10px;
+  width: 100%;
+  margin-bottom: 10px;
+  display: flex;
+  align-items: center;
+  justify-items: center;
+  justify-content: space-around;
+}
+
+.review {
+  background-color: rgb(248, 75, 44);
+  border: none;
+  color: aliceblue;
+  padding: 4px 10px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-items: center;
+  justify-content: space-around;
+}
