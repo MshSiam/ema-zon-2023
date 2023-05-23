@@ -16,7 +16,7 @@ const Product = (props) => {
         <p>Price : ${price}</p>
         <p>Seller : {seller}</p>
         <p>
-          <small>Ratings : {ratings} starts</small>
+          <small>Ratings : {ratings} stars</small>
         </p>
       </div>
       <button
